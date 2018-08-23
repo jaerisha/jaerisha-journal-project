@@ -1,0 +1,30 @@
+--Note Taking
+--2 Separate modes?
+----Diary
+------Not just text
+------Other features
+--------Add location (maybe have a map view?)
+--------Pictures (also show these on the map?)
+--------Sound clips (also audio diary entries)
+--------Videos
+--------Sharing functions
+----------Maybe add posts from other sites into the entry
+----General note taking (maybe)
+------Lists/Checklists
+------Organised categories? 
+--------Maybe for students
+--Trackers (if possible) (Currently out of scope)
+----Water tracker, steps etc
+----General tracker templates that users can rename to suit their own needs
+--Calendar
+----Month view
+----Week view
+----Daily view
+----Markers
+----Reminders
+--Aesthetics
+----Make it look nice
+
+Currently in scope:
+Writing and saving a text file.
+
